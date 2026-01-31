@@ -4,7 +4,7 @@
 
 # Gambar Tampilan User
 
-<img width="1907" height="1028" alt="manajemen user admin" src="https://github.com/user-attachments/assets/cdd2b567-b275-4129-88b3-c398d8424bba" />
+<img width="1366" height="645" alt="INI" src="https://github.com/user-attachments/assets/afc5a765-5154-4eb8-baf6-a05233d6e9bd" />
 
 # Dashboard Penjualan Berbasis Streamlit
 
